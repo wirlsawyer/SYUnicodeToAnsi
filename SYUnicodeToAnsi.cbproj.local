@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/12/15 16:47:16.177.cpp,C:\Users\Sawyer\Documents\RAD Studio\Projects\Unit1.cpp=F:\Sample\SYUnicodeToAnsi\Unit1.cpp</Transaction>
+    <Transaction>2014/12/15 16:47:16.177.h,C:\Users\Sawyer\Documents\RAD Studio\Projects\Unit1.h=F:\Sample\SYUnicodeToAnsi\Unit1.h</Transaction>
+    <Transaction>2014/12/15 16:47:16.177.dfm,C:\Users\Sawyer\Documents\RAD Studio\Projects\Unit1.dfm=F:\Sample\SYUnicodeToAnsi\Unit1.dfm</Transaction>
+    <Transaction>2014/12/15 16:47:18.347.cbproj,C:\Users\Sawyer\Documents\RAD Studio\Projects\Project1.cbproj=F:\Sample\SYUnicodeToAnsi\SYUnicodeToAnsi.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
